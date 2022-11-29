@@ -23,3 +23,4 @@ major
 minor
 patch
 alsdf
+minor
