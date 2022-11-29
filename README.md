@@ -21,3 +21,4 @@ adsfa
 patch
 major
 minor
+patch
