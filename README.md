@@ -16,3 +16,4 @@ Probando doble commit con patch segundo
 cambio
 #minor
 nada
+prueba con major
