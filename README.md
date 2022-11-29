@@ -19,3 +19,4 @@ nada
 prueba con major
 adsfa
 patch
+major
