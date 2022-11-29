@@ -19,3 +19,6 @@ nada
 prueba con major
 adsfa
 patch
+major
+minor
+patch
