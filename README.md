@@ -1,5 +1,6 @@
 # HTML2TXT
-![On Merge to Master](https://github.com/darioaplicano/HTML2TXT/actions/workflows/onmargetomaster.yml/badge.svg)
+
+[![GitHub Release](https://img.shields.io/github/release/darioaplicano/HTML2TXT.svg?style=flat)]()  
 
 Convertidor de HTML tomado desde una URL a texto, solamente los dl, dt y dd
 
