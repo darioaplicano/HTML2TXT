@@ -26,3 +26,4 @@ alsdf
 minor
 
 # Probando por pullrequest - merge (development)
+# Probando major
