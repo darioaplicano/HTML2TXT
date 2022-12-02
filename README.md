@@ -1,8 +1,7 @@
 # HTML2TXT
 
 ## Version
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  
+[![GitHub Release](https://img.shields.io/github/release/darioaplicano/HTML2TXT.svg?style=flat)]()  
 
 Convertidor de HTML tomado desde una URL a texto, solamente los dl, dt y dd
 
