@@ -24,3 +24,5 @@ minor
 patch
 alsdf
 minor
+
+# Probando por pullrequest - merge
