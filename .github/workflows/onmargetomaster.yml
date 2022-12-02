@@ -1,5 +1,5 @@
 # On merge to master
-name: Bump version
+name: Merge to Master
 on:
   pull_request:
     types:
