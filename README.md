@@ -1,4 +1,6 @@
 # HTML2TXT
+![On Merge to Master](https://github.com/darioaplicano/HTML2TXT/actions/workflows/onmargetomaster.yml/badge.svg)
+
 Convertidor de HTML tomado desde una URL a texto, solamente los dl, dt y dd
 
 Testeando las acciones
