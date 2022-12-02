@@ -1,5 +1,8 @@
 # HTML2TXT
-![On Merge to Master](https://github.com/darioaplicano/HTML2TXT/actions/workflows/onmargetomaster.yml/badge.svg)
+
+## Version
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  
 
 Convertidor de HTML tomado desde una URL a texto, solamente los dl, dt y dd
 
