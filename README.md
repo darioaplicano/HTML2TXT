@@ -1,6 +1,5 @@
 # HTML2TXT
 
-## Version
 [![GitHub Release](https://img.shields.io/github/release/darioaplicano/HTML2TXT.svg?style=flat)]()  
 
 Convertidor de HTML tomado desde una URL a texto, solamente los dl, dt y dd
